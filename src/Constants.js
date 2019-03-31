@@ -1,0 +1,11 @@
+const Constants = {
+    ADD_USER: "ADD_USER",
+    USER_FORM: "USER_FORM",
+    LOGIN_FORM: "LOGIN_FORM",
+    SET_AUTH: "SET_AUTHENTICATION",
+    AUTH_TOKEN: "authToken",
+    FETCH_UPDATE: "FETCH_UPDATE",
+    UPDATE_SEARCH_QUERY: "SEARCH_QUERY",
+    GRID_DATA: "GRID_DATA"
+}
+export default Constants;
